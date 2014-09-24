@@ -1,0 +1,9 @@
+- Matrikelnummer Lars auf Deckblatt 
+- Keywords für Einleitung:
+
+	- Cloud
+	- SaaS, im folgenden nur noch behandelt.
+	- Saas = Vermietung von Software
+	- Warum Saas?
+	- Unterschied Saas und onPremise
+ 
